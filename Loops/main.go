@@ -34,4 +34,8 @@ func main() {
 		fmt.Println(x,s)
 	}
 
+	for i:=0;i < 10; i++ {
+		fmt.Println(i)
+	}
+
 }
